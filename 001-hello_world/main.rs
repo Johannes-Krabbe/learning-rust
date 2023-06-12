@@ -1,3 +1,4 @@
-fn main (){
+err
+fn main() {
     println!("Hello, World!");
 }
